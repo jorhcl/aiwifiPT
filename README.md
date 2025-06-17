@@ -34,3 +34,10 @@ Se valida edad, nacionalidad y genero en base al nombre, y se valida que el emai
 - run php artisan queue:work
 - runt php artisan serve
 - Coleccion de postman en PostmanCollection
+
+
+
+
+## Authors
+
+- Jorge Cortes Lopez [https://www.linkedin.com/in/jorhcl/]
